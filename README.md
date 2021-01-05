@@ -5,7 +5,7 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-	Check out video tutorial's on the various hackerrank problems<a href="https://www.youtube.com/channel/UCUKeGHv2WhjBlZKxkpuLgTw">here</a>
+	Check out video tutorial's on the various hackerrank problems<a href="https://www.youtube.com/channel/UCUKeGHv2WhjBlZKxkpuLgTw"> here</a>
 </p>
 <p align="center">
 	If you are interested in helping or have a solution in the C++ language feel free to make a pull request.
